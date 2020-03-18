@@ -2,6 +2,9 @@
 
 Use this repository as a template for coding dojo project.
 
+TDD tasks:
+https://osherove.com/tdd-kata-1
+
 # How to run it?
 
 Fork given repository to your account and clone it locally. 
